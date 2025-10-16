@@ -2,7 +2,7 @@
   "name": "hellox2",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://FiatTyS.github.io/hellox2",
+  "homepage": "https://FiatTyS.github.io/hellox2/",
   "type": "module",
   "scripts": {
     "dev": "vite",
